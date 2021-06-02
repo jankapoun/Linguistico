@@ -1,0 +1,18 @@
+D:\My Software\Linguistico .NET Mobile\Linguistico .NET Mobile\bin\Debug\Linguistico .NET Mobile.exe
+D:\My Software\Linguistico .NET Mobile\Linguistico .NET Mobile\bin\Debug\Linguistico .NET Mobile.pdb
+D:\My Software\Linguistico .NET Mobile\Linguistico .NET Mobile\obj\Debug\ResolveAssemblyReference.cache
+D:\My Software\Linguistico .NET Mobile\Linguistico .NET Mobile\obj\Debug\Linguistico.NET_Mobile.MainWnd.resources
+D:\My Software\Linguistico .NET Mobile\Linguistico .NET Mobile\obj\Debug\Linguistico.NET_Mobile.Properties.Resources.resources
+D:\My Software\Linguistico .NET Mobile\Linguistico .NET Mobile\obj\Debug\Linguistico .NET Mobile.csproj.GenerateResource.Cache
+D:\My Software\Linguistico .NET Mobile\Linguistico .NET Mobile\obj\Debug\Linguistico .NET Mobile.exe
+D:\My Software\Linguistico .NET Mobile\Linguistico .NET Mobile\obj\Debug\Linguistico .NET Mobile.pdb
+c:\Documents and Settings\Administrator\Dokumenty\Visual Studio 2005\Projects\Linguistico .NET Mobile\Linguistico .NET Mobile\bin\Debug\Linguistico .NET Mobile.exe
+c:\Documents and Settings\Administrator\Dokumenty\Visual Studio 2005\Projects\Linguistico .NET Mobile\Linguistico .NET Mobile\bin\Debug\Linguistico .NET Mobile.pdb
+c:\Documents and Settings\Administrator\Dokumenty\Visual Studio 2005\Projects\Linguistico .NET Mobile\Linguistico .NET Mobile\obj\Debug\ResolveAssemblyReference.cache
+c:\Documents and Settings\Administrator\Dokumenty\Visual Studio 2005\Projects\Linguistico .NET Mobile\Linguistico .NET Mobile\obj\Debug\Linguistico.NET_Mobile.MainWnd.resources
+c:\Documents and Settings\Administrator\Dokumenty\Visual Studio 2005\Projects\Linguistico .NET Mobile\Linguistico .NET Mobile\obj\Debug\Linguistico.NET_Mobile.Properties.Resources.resources
+c:\Documents and Settings\Administrator\Dokumenty\Visual Studio 2005\Projects\Linguistico .NET Mobile\Linguistico .NET Mobile\obj\Debug\Linguistico.NET_Mobile.resources.resources
+c:\Documents and Settings\Administrator\Dokumenty\Visual Studio 2005\Projects\Linguistico .NET Mobile\Linguistico .NET Mobile\obj\Debug\Linguistico .NET Mobile.csproj.GenerateResource.Cache
+c:\Documents and Settings\Administrator\Dokumenty\Visual Studio 2005\Projects\Linguistico .NET Mobile\Linguistico .NET Mobile\obj\Debug\Linguistico .NET Mobile.exe
+c:\Documents and Settings\Administrator\Dokumenty\Visual Studio 2005\Projects\Linguistico .NET Mobile\Linguistico .NET Mobile\obj\Debug\Linguistico .NET Mobile.pdb
+C:\Documents and Settings\Administrator\Dokumenty\Visual Studio 2005\Projects\Linguistico .NET Mobile\Linguistico .NET Mobile\obj\Debug\Linguistico.NET_Mobile.dict_resources.resources

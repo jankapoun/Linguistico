@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfFileNameAndTime xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <FileNameAndTime>
+    <filename>Debug</filename>
+    <datetime>2019-08-04T13:07:58.1174589+02:00</datetime>
+  </FileNameAndTime>
+  <FileNameAndTime>
+    <filename>Linguistico .NET Mobile.csproj.FileListAbsolute.txt</filename>
+    <datetime>2008-12-30T23:49:14+01:00</datetime>
+  </FileNameAndTime>
+</ArrayOfFileNameAndTime>

@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linguistico .NET Mobile", "Linguistico .NET Mobile\Linguistico .NET Mobile.csproj", "{FC9842EE-26AB-4FEF-BED4-6BBABAD6AF9A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{BCC6EB0D-3AFD-4A77-ADD6-D5ECBB08A5C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC9842EE-26AB-4FEF-BED4-6BBABAD6AF9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC9842EE-26AB-4FEF-BED4-6BBABAD6AF9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC9842EE-26AB-4FEF-BED4-6BBABAD6AF9A}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{FC9842EE-26AB-4FEF-BED4-6BBABAD6AF9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC9842EE-26AB-4FEF-BED4-6BBABAD6AF9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC9842EE-26AB-4FEF-BED4-6BBABAD6AF9A}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
